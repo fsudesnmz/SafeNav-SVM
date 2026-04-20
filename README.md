@@ -33,8 +33,7 @@ Proje, puanlama kriterlerinde belirtilen "Katmanların İzolasyonu" prensibine g
 - **Verimlilik:** Gereksiz nesne üretiminden kaçınılmış, büyük veri setlerine uygun şekilde `primitive` bazlı koordinat hesaplamaları tercih edilmiştir.
 
 ## 📸 Uygulama Ekran Görüntüsü
-![Uygulama Çıktısı](https://github.com/KULLANICI_ADIN/SafeNav-SVM/blob/main/output.png?raw=true)
-*(Not: Kendi ekran görüntünü eklemek istersen burayı güncelleyebilirsin)*
+![Uygulama Çıktısı](https://github.com/fsudesnmz/SafeNav-SVM/blob/main/output.png?raw=true)
 
 ## 📦 Kurulum ve Çalıştırma
 1. Depoyu klonlayın: `git clone https://github.com/KULLANICI_ADIN/SafeNav-SVM.git`

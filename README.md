@@ -36,7 +36,7 @@ Proje, puanlama kriterlerinde belirtilen "Katmanların İzolasyonu" prensibine g
 ![Uygulama Çıktısı](https://github.com/fsudesnmz/SafeNav-SVM/blob/main/output.png?raw=true)
 
 ## 📦 Kurulum ve Çalıştırma
-1. Depoyu klonlayın: `git clone https://github.com/KULLANICI_ADIN/SafeNav-SVM.git`
+1. Depoyu klonlayın: `git clone https://github.com/fsudesnmz/SafeNav-SVM.git`
 2. Proje dizinine gidin: `cd SafeNav-SVM`
 3. Derleyin: `mvn clean install`
 4. Çalıştırın: `java -cp target/SafeNav-SVM-1.0-SNAPSHOT.jar com.otonom.guvenlik.Main`
